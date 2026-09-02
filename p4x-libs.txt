@@ -1,0 +1,26 @@
+{
+  "menu_title": "SYSTEM SELECT",
+  "systems": [
+    {
+      "name": "P4X v1 VIP",
+      "status": "ONLINE",
+      "lib_name": "libP4Xv1.so",
+      "download_url": "https://yukitakashi.x10.mx/Farlight/libP4Xv1.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "P4X v2 VIP",
+      "status": "ONLINE",
+      "lib_name": "libP4Xv2.so",
+      "download_url": "https://yukitakashi.x10.mx/Farlight/libP4Xv2.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "P4X v3 VIP [WITH HIDEREC]",
+      "status": "ONLINE",
+      "lib_name": "libP4Xv3.so",
+      "download_url": "https://yukitakashi.x10.mx/Farlight/libP4Xv3.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
