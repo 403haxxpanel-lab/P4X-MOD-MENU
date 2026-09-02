@@ -21,6 +21,13 @@
       "lib_name": "libP4Xv3.so",
       "download_url": "https://yukitakashi.x10.mx/Farlight/libP4Xv3.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "P4X v4 VIP",
+      "status": "ONLINE",
+      "lib_name": "libP4Xv4.so",
+      "download_url": "https://yukitakashi.x10.mx/Farlight/libP4Xv4.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
 }
