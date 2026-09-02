@@ -4,8 +4,8 @@
     {
       "name": "P4X v1 VIP",
       "status": "ONLINE",
-      "lib_name": "libP4Xv1.so",
-      "download_url": "https://yukitakashi.x10.mx/Farlight/libP4Xv1.so",
+      "lib_name": "libP4XV1.so",
+      "download_url": "https://yukitakashi.x10.mx/Farlight/libP4XV1.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
