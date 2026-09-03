@@ -10,7 +10,7 @@
     },
     {
       "name": "P4X v2 VIP",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libP4Xv2.so",
       "download_url": "https://yukitakashi.x10.mx/Farlight/libP4Xv2.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
